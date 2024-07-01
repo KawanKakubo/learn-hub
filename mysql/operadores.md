@@ -110,5 +110,3 @@ SELECT 'Hello' LIKE 'H%';          -- Retorna TRUE
 SELECT NULL IS NULL;               -- Retorna TRUE
 SELECT NULL IS NOT NULL;           -- Retorna FALSE
 ```
-
-Esses operadores formam a base para realizar diversas operações em consultas SQL no MySQL, permitindo manipulação e consulta eficiente dos dados armazenados no banco de dados.
